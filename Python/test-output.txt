@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.11.5, pytest-7.4.0, pluggy-1.0.0
+rootdir: /Users/Nan/PycharmProjects/SCC.461wk6-10/FinalProject
+plugins: anyio-3.5.0
+collected 4 items
+
+test_c45.py ....                                                         [100%]
+
+============================== 4 passed in 2.56s ===============================
